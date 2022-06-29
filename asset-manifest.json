@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81bde115.css",
+    "main.js": "/static/js/main.f7ff671b.js",
+    "static/js/787.393238a3.chunk.js": "/static/js/787.393238a3.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/star-struck.png": "/static/media/star-struck.f3b6944795b4e4da64ea.png",
+    "static/media/heart-eyes.png": "/static/media/heart-eyes.22aeb0678c81645a4126.png",
+    "index.html": "/index.html",
+    "main.81bde115.css.map": "/static/css/main.81bde115.css.map",
+    "main.f7ff671b.js.map": "/static/js/main.f7ff671b.js.map",
+    "787.393238a3.chunk.js.map": "/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81bde115.css",
+    "static/js/main.f7ff671b.js"
+  ]
+}
